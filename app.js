@@ -1,2 +1,4 @@
 var num = 10;
-console.warn(num);
+var str = "abhishek";
+console.log(num);
+console.log(str);
